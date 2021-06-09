@@ -25,7 +25,7 @@ import minegame159.meteorclient.systems.Systems;
 import minegame159.meteorclient.systems.config.Config;
 import minegame159.meteorclient.systems.modules.Categories;
 import minegame159.meteorclient.systems.modules.Modules;
-import minegame159.meteorclient.systems.modules.misc.DiscordPresence;
+//import minegame159.meteorclient.systems.modules.misc.DiscordPresence;
 import minegame159.meteorclient.utils.Utils;
 import minegame159.meteorclient.utils.misc.FakeClientPlayer;
 import minegame159.meteorclient.utils.misc.MeteorPlayers;
