@@ -83,7 +83,7 @@ public class MeteorClient implements ClientModInitializer {
 
         Systems.addPreLoadTask(() -> {
             if (!Modules.get().getFile().exists()) {
-                Modules.get().get(DiscordPresence.class).toggle(false);
+   //           Modules.get().get(DiscordPresence.class).toggle(false);
                 Utils.addMeteorPvpToServerList();
             }
         });
